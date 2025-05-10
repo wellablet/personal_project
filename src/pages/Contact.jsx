@@ -196,7 +196,7 @@ const Contact = () => {
             </div>
 
             <div className="text-gray-400 text-sm">
-              © {new Date().getFullYear()} Your Name
+              © {new Date().getFullYear()} Created by Ablet
             </div>
           </div>
         </footer>
